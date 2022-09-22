@@ -14,6 +14,7 @@ namespace Open_Lab_04._05
                 {
                     for (int i = 0; i < n; i++)
                     nlet = nlet + c;
+
                 }
             }
             return nlet;
